@@ -1,0 +1,7 @@
+pandas
+pyarrow
+duckdb
+faker
+streamlit
+plotly
+minio
